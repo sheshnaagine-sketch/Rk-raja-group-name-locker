@@ -54,7 +54,7 @@ function loadUsers() {
 
   // Default admin user
 
-  return [{ username: "XMARTY AYUSH KING", password: "AYUSH-KING" }];
+  return [{ username: "RK RAJA XWD", password: "AYUSH-KING" }];
 
 }
 
